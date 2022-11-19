@@ -1,0 +1,2 @@
+# KaraokeNewSingDetectionBot
+カラオケ(DAM)に追加されてほしい曲が入ったかどうかを検知するBotです
